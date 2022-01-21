@@ -9,3 +9,79 @@
   .tamaño-mobile{
     width: 40vh;
   }
+.form-size{
+    width: 25vh;   
+ }
+ 
+ .gps-size{
+    width: 25vh;
+ } 
+ 
+ .section-contactate{
+    
+    background-color: #6E1078;
+    color: #F5E616;
+ }
+ 
+ 
+ .form-size{
+    width: 300px;
+ }
+ 
+ .gps-size{
+    width: 300px;
+ }
+ 
+ .bottom-padding{
+    padding-top: 10px;
+ }
+ 
+ /* footer{
+    background-color: #5ECBEA;
+ } */
+ 
+ .logo-insta{
+    width: 40px;
+    height: 40px;
+    margin: 2px;
+ }
+ 
+ .logo-face{
+    width: 40px;
+    height: 40px;
+    margin: 2px;
+ }
+ 
+ 
+ .nav-link{
+    color: #F5E616;
+ }
+ 
+ .text-productos{
+    color: darkslategray;
+ }
+ 
+ .redes-sociales{
+    margin: 0;
+    padding: 0;
+    background-color:#EB1291;
+    border-radius: 5%;
+    
+ }
+ 
+ .card-nosotros{
+    background-color: transparent;
+    
+ }
+ 
+ .imagen-nosotros{
+    border-radius: 100%;
+    /* object-fit: contain; */
+    height: 300px;
+    width: 100%;
+    align-items: center;
+ }
+ 
+ .link-redes{
+    color: whitesmoke;
+ }
