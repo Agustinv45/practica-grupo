@@ -1,0 +1,30 @@
+div {
+  width: 100%;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+p {
+  font-weight: bold;
+  text-align: center;
+  font-size: 10vw;
+  color: lightblue;
+  -webkit-animation: changeColor 80s ease-in infinite;
+  animation: changeColor 1s ease-in infinite;
+}
+em {
+  font-family: -webkit-pictograph;
+  font-weight: lighter;
+}
+
+@-webkit-keyframes changeColor {
+  0% {
+    color: lightblue;
+  }
+  50% {
+    color: lightgreen;
+  }
+  100% {
+    color: lightblue;
+  }
+}
